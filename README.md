@@ -1,5 +1,5 @@
 # rbx-keep-default-lighting
-to exec:
+TO EXECUTE:
 ```lua
 -- https://raw.githubusercontent.com/thaLILNIKKI/rbx-keep-default-lighting/HEAD/.lua
 loadstring(game:HttpGet(
